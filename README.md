@@ -1,4 +1,4 @@
-# SkinGuard — functional browser MVP for examiners
+# SkinGuard - functional browser MVP for examiners
 
 This is an **additional browser-accessible demonstration** of the supplied SwiftUI MVP's **simulated business rules**. It is not a live payment system. The original iPhone app archive remains a separate source artifact.
 
